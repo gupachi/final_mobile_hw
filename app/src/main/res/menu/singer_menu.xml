@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-	<item         
-    	android:id="@+id/it_menu_item_1"         
-        android:title="@string/singer1"/>
-    <item         
-    	android:id="@+id/it_menu_item_2"
-        android:title="@string/singer2"/>
-     <item         
-    	android:id="@+id/it_menu_item_3"
-        android:title="@string/singer3"/>
+    <item
+        android:id="@+id/menu_fragment_one"
+        android:title="Fragment One" />
+    <item
+        android:id="@+id/menu_fragment_two"
+        android:title="Fragment Two" />
+    <item
+        android:id="@+id/menu_fragment_three"
+        android:title="Fragment Three" />
 </menu>
